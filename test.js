@@ -12,3 +12,4 @@ app.init(function () {
   console.log('Initialized test automation');
 });
 //Homework assignment for Javier
+//Homework assignemnt for Allison
